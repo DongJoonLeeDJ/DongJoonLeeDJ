@@ -1,7 +1,11 @@
-### Hi there 👋
+### Dong Joon Lee Xenoint 👋
+
+![DongJoonLeeDJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongJoonLeeDJ&theme=white&show_icons=true)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hero430)](https://solved.ac/hero430/)
 
 <!--
-**DongJoonLeeDJ/DongJoonLeeDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Xenoint/DongJoonLeeDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
